@@ -1,6 +1,6 @@
 name: Desert
 pauseCountdown: 60
-gameTime: 1800
+gameTime: 3600
 world: World
 pos1: -168.5;5.0;-168.5;174.46045;8.249942
 pos2: 169.5;255.0;169.5;174.46045;8.249942
